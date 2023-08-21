@@ -1,0 +1,17 @@
+{
+  "name": "rome-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "rome check test.ts",
+    "format": "rome format test.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rome": "12.1.3"
+  }
+}
